@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rika</h1>
+<h1 align="center">Hi 🐢, I'm Rika Scarlet *bows*</h1>
+
 - 🔭 I’m currently working on **LVTV: A live streaming platform**
 
 - 🌱 I’m currently learning **Laravel and Tailwindcss**
