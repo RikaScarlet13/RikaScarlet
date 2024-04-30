@@ -7,8 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RikaScarlet13&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Memes for the soul
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RikaScarlet13&icon=4&color=11)](https://visitcount.itsvg.in)
